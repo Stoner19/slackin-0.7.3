@@ -1,4 +1,5 @@
 *new repo created because latest version breaks deployment to openshift*
+All credit still goes to https://github.com/rauchg/slackin for the code
 
 # slackin
 
