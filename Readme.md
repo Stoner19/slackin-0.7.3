@@ -1,3 +1,4 @@
+*new repo created because latest version breaks deployment to openshift*
 
 # slackin
 
